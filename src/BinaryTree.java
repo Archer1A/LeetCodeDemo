@@ -18,11 +18,11 @@ public class BinaryTree {
         }
     }
 
-    public static BinaryTreeNode treeSearch(BinaryTreeNode root,int x){
+   /* public static BinaryTreeNode treeSearch(BinaryTreeNode root,int x){
         if (root == null || x == root.getData()){
             return  root;
         }if
-    }
+    }*/
 
     //后序遍历
     public static  void PrintBinaryTreeMidRecur(BinaryTreeNode root){
